@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Overthinking 
+* Walking among trees
+* Eating burgers
+* Drinking beer
+  - And cider
